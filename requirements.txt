@@ -1,0 +1,15 @@
+tensorflow
+pandas
+seaborn
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+ipykernel
+jupyter-client
+jupyter-core
+pygments
+pyzmq
+traitlets
